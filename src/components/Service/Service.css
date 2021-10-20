@@ -1,0 +1,21 @@
+.single-service{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.single-service-img img{
+    width: 100%;
+}
+
+.service-heading{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: #0046C0;
+    font-size: 48px;
+
+}
+
+.service-description{
+    font-size: 18px;
+    text-align: justify;
+}

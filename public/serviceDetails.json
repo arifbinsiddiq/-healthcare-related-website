@@ -1,0 +1,50 @@
+[
+    {
+      "key": 101,
+      "serviceName": "Outpatient Surgery",
+      "img": "https://i.ibb.co/sK09wM6/outpatient-surgery.jpg",
+      "description": "Outpatient surgery, also known as ambulatory surgery, day surgery, day case surgery, or same-day surgery, is surgery that does not require an overnight hospital stay. The term “outpatient” arises from the fact that surgery patients may enter and leave the facility on the same day."
+    },
+    {
+      "key": 102,
+      "serviceName": "Cardiac Clinic",
+      "img": "https://i.ibb.co/6gpvp3N/Cardiac-Clinic.jpg",
+      "description": "The clinic staff helps you understand your current state of cardiovascular health and how you can reduce your risk of cardiovascular disease. The staff in the Cardiovascular Health Clinic works together as a multidisciplinary team to coordinate your care. The team may include: Preventive cardiologists."
+    },
+    {
+      "key": 103,
+      "serviceName": "Ophthalmology Clinic",
+      "img": "https://i.ibb.co/Hp8Zm86/Ophthalmology-Clinic.jpg",
+      "description": "Ophthalmology is a branch of medicine dealing with the diagnosis, treatment and prevention of diseases of the eye and visual system. The eye, its surrounding structures and the visual system can be affected by a number of clinical conditions."
+    },
+    {
+      "key": 104,
+      "serviceName": "Gynaecological Clinic",
+      "img": "https://i.ibb.co/6Y4RvzS/Gynaecological-Clinic.jpg",
+      "description": "Gynaecology is concerned with the well-being and health of the female reproductive organs and the ability to reproduce. It includes endocrinology, female urology and pelvic malignancy. ... In obstetrics most women, although pregnant, are otherwise fit and healthy."
+    },
+    {
+      "key": 105,
+      "serviceName": "Outpatient Rehabilitation",
+      "img": "https://i.ibb.co/ftsfT12/Outpatient-Rehabilitation.jpg",
+      "description": "Inpatient rehabilitation generally refers to physician and therapy services you receive during a stay in a hospital. Outpatient rehabilitation refers to services you receive when you are not admitted to the hospital, such as physician services and physical, occupational, and speech therapy."
+    },
+    {
+      "key": 106,
+      "serviceName": "Laryngological Clinic",
+      "img": "https://i.ibb.co/Dkw7bqn/Laryngological-Clinic.jpg",
+      "description": "Risk factors for laryngitis include: Having a respiratory infection, such as a cold, bronchitis or sinusitis. Exposure to irritating substances, such as cigarette smoke, excessive alcohol intake, stomach acid or workplace chemicals. Overusing your voice, by speaking too much, speaking too loudly, shouting or singing."
+    },
+    {
+      "key": 107,
+      "serviceName": "Pediatric Clinic",
+      "img": "https://i.ibb.co/GPYPmb3/Pediatric-Clinic.jpg",
+      "description": "A pediatrician is a medical doctor who manages the physical, behavioral, and mental care for children from birth until age 18. A pediatrician is trained to diagnose and treat a broad range of childhood illnesses, from minor health problems to serious diseases."
+    },
+    {
+      "key": 108,
+      "serviceName": "Laboratory Analysis",
+      "img": "https://i.ibb.co/ypvbxXJ/Laboratory-Analysis.jpg",
+      "description": "Laboratory analysis means a test performed by a labo- ratory on body fluid, tissue, or excretion for the purpose of determining the presence, absence, or concentration of various substances in the human body."
+    }
+  ]

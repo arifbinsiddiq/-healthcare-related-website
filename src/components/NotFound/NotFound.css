@@ -1,0 +1,14 @@
+.not-found{
+    margin-top: 100px;
+    margin-bottom: 60px;
+}
+
+.back-home{
+    background-color: #0046C0;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 40px;
+    font-size: 18px;
+    font-weight: 500;
+    color: white;
+}

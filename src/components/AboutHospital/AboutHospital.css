@@ -1,0 +1,41 @@
+.about-hospital-section{
+    margin-bottom: 60px;
+}
+.about-hospital-img img{
+    width: 100%;
+}
+
+.about-hospital-heading{
+    margin-left: 20px;
+}
+
+.about-hospital-heading h2{
+    font-size: 48px;
+    font-weight: 500;
+    color: #0046C0;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.about-hospital-heading p{
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 15px;
+}
+
+
+.about-hospital-heading ul li{
+    list-style: none;
+    text-align: start;
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+
+.about-hospital-heading ul li span{
+    float: left;
+    margin-right: 15px;
+    color: #0046C0;
+}
+
+
+

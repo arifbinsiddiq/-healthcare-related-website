@@ -1,0 +1,32 @@
+.home-baner-section{
+    background-image: url('../../images/home-baner-img.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 500px;
+    margin: 100px 0px;
+}
+
+.home-baner-info{
+    margin-top: 80px;
+}
+
+.home-baner-info h1{
+    text-align: start;
+    color: black;
+    font-size: 60px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.span-home-baner-info{
+    color: #0046C0;
+}
+
+
+.home-baner-info p{
+    text-align: start;
+    color: black;
+    font-size: 18px;
+    font-weight: 400;
+}
+

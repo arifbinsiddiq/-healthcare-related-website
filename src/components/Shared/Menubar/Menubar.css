@@ -1,0 +1,36 @@
+.bg-color{
+    background-color: #0046C0;
+}
+.logo{
+    width: 120px;
+    height: 50px;
+}
+
+.nav-link{
+    color: white !important;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.nav-link:hover{
+    color: black !important;
+}
+
+.log-out-btn{
+    background-color: #0046C0;
+    border: none;
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.log-out-btn:hover{
+    color: black;
+}
+
+.user-show{
+    padding-top: 9px;
+    font-size: 18px;
+    font-weight: 500;
+    margin-left: 15px;
+}

@@ -1,0 +1,30 @@
+.services-section{
+    margin-top: 100px;
+    margin-bottom: 60px;
+}
+.services-heading{
+    margin-bottom: 50px;
+    font-size: 48px;
+    text-align: center;
+    color: #0046C0;
+}
+
+.card-section{
+    height: 450px;
+}
+
+.card-title{
+    color: #0046C0;
+    font-size: 20px;
+}
+
+.services-btn{
+    background-color: #0046C0;
+    color: white;
+    padding: 10px 40px;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 15px;
+}

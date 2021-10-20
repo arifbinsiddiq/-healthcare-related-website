@@ -1,0 +1,10 @@
+.doctors-section{
+    margin-bottom: 60px;
+}
+
+.doctors-img{
+    text-align: center;
+    width: 250px;
+    height: 250px;
+    border-radius: 60%;
+}

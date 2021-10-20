@@ -1,0 +1,54 @@
+.footer-section{
+    background-color: #0046C0;
+    height: 250px;
+}
+
+.footer-card{
+    background-color: #0046C0;
+    border: none;
+    color: white;
+}
+
+#footer-card-title{
+    color: white;
+    font-size: 24px;
+}
+
+.footer-card-text{
+    text-align: start;
+}
+
+.footer-about-us ul{
+    text-align: start;
+}
+
+.footer-about-us ul li{
+    list-style: none;
+    margin-bottom: 5px;
+}
+
+.footer-about-us ul li a{
+    text-decoration: none;
+    text-align: start;
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.social-icon{
+    display: flex;
+}
+
+.social-icon a{
+    text-decoration: none;
+    font-size: 24px;
+    color: white;
+    margin-right: 25px;
+}
+
+.copyright{
+    background-color: #0046C0;
+    font-size: 16px;
+    color: white;
+}
+

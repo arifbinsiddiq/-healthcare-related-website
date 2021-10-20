@@ -1,0 +1,26 @@
+.hospital-information{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.patients-beds{
+    background-color: #0046C0;
+    border-radius: 5px;
+    /* border: 1px solid grey; */
+    padding: 30px;
+    color: white;
+}
+
+.patients-beds span i{
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+
+.patients-beds h2{
+    font-size: 48px;
+}
+
+.patients-beds p{
+    font-size: 24px;
+}
+

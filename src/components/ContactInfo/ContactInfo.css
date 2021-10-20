@@ -1,0 +1,17 @@
+.contact-info{
+    margin: 100px 0px;
+}
+
+.card-icon i{
+    text-align: center;
+    font-size: 28px;
+    color: #0046C0;
+    margin-top: 15px;
+    padding: 20px;
+    background-color: #0745af6b;
+    border-radius: 50%;
+}
+
+.contact-card-title{
+    font-size: 20px;
+}

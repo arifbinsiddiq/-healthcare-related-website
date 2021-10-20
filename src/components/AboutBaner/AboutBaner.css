@@ -1,0 +1,23 @@
+.about-baner-section{
+    background-image: url('../../images/about-baner.jfif');
+    background-size: 100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 500px;
+    position: relative;
+    margin-bottom: 60px;
+}
+
+.about-heading{
+    position: absolute;
+    z-index: 0.5;
+    color: #0046C0;
+    font-size: 60px;
+    font-weight: 500;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    padding-top: 15%;
+    text-align: center;
+}
